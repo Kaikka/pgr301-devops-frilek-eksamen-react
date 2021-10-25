@@ -1,3 +1,5 @@
+[![Publish Docker image](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/create_image.yaml/badge.svg)](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/create_image.yaml)
+
 My PGR301 DevOps exam prep
 
 Github actions will automatically build and push docker images to AWS ECR and Docker Hub. Will also work with AWS App Runner if you set that up.
