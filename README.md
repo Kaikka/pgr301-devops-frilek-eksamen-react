@@ -1,4 +1,4 @@
-[![Publish Docker image](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/create_image.yaml/badge.svg)](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/create_image.yaml)
+[![Publish Docker image](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/create_image.yaml/badge.svg)](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/create_image.yaml) [![Terraform](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/pipeline_cloudcollege.yaml/badge.svg)](https://github.com/Kaikka/pgr301-devops-frilek-eksamen-react/actions/workflows/pipeline_cloudcollege.yaml)
 
 My PGR301 DevOps exam prep
 
