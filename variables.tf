@@ -1,4 +1,4 @@
 variable "username" {
   type    = string
-  default = "kaam004"
+  default = "kaam007"
 }
